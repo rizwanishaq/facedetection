@@ -1,0 +1,23 @@
+{
+  "name": "face_detection_real",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizwanishaq/facedetection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizwanishaq/facedetection/issues"
+  },
+  "homepage": "https://rizwanishaq.github.io/facedetection",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
